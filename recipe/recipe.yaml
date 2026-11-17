@@ -28,7 +28,7 @@ requirements:
     - pnpm
   run:
     - python >=${{ python_min }}
-    - airflow-config >=1.12,<1.13
+    - airflow-config >=1.12,<1.14
     - airflow-pydantic >=1.6,<1.8
     - pydantic >=2
 
